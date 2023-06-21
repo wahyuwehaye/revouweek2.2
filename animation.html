@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    /* Definisikan animasi dengan nama "spin" */
+    @keyframes spin {
+      0% { transform: rotate(0deg); }
+      100% { transform: rotate(360deg); }
+    }
+
+    /* Terapkan animasi ke elemen dengan kelas "box" */
+    .box {
+      width: 100px;
+      height: 100px;
+      background-color: red;
+      animation-name: spin;
+      animation-duration: 2s;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+    }
+  </style>
+</head>
+<body>
+  <div class="box"></div>
+</body>
+</html>

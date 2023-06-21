@@ -45,8 +45,8 @@ The website is designed to be responsive and optimized for various devices, ensu
 
 To run this website locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/your-repo.git`
-2. Navigate to the project directory: `cd your-repo`
+1. Clone the repository: `git clone git@github.com:wahyuwehaye/revouweek1.git`
+2. Navigate to the project directory: `cd revouweek1`
 3. Open the `index.html` file in your preferred web browser.
 
 ## Usage
